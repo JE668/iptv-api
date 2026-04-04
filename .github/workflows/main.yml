@@ -11,6 +11,8 @@ name: 'Update schedule'
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [ external_update ]
 
 jobs:
   push:
