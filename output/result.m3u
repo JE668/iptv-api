@@ -580,13 +580,13 @@ https://t.freetv.fun/live/he-bei-wei-shi-8.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7bf7cc6d2e41fb26e8b7032205b1f751&wsTime=1776003777
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=37b47fecc6dab312a42fff45af5bf05e&wsTime=1775764808&wsSession=9db3ca43c2746cf43f910d50-177575040919213&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168058346316481330
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
@@ -2516,6 +2516,8 @@ https://stream1.freetv.fun/hu-nan-gong-gong-7.ctv
 #EXTINF:-1 tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南公共.png" group-title="☘️湖南频道",湖南公共
 https://stream1.freetv.fun/hu-nan-gong-gong-gao-qing-1.m3u8
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南国际.png" group-title="☘️湖南频道",湖南国际
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lMyZjaHM9JmRlZj0xJnM9NTk1YmExYzliNmE5MDZmM2NiMTk1YWE5MWU1NTIxOGUmdWlkPSZ1dWlkPWZlMjJlZWYxMzg5ZjM3OGNjNGYzZDk2OWJmOGI5MTg3LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NzYwMzgxMzM,/HNGJMPP360.m3u8
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南国际.png" group-title="☘️湖南频道",湖南国际
 https://t.freetv.fun/live/hu-nan-guo-ji-4.m3u8
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南国际.png" group-title="☘️湖南频道",湖南国际
 https://t.freetv.fun/live/hu-nan-guo-ji-3.m3u8
@@ -2523,8 +2525,6 @@ https://t.freetv.fun/live/hu-nan-guo-ji-3.m3u8
 https://t.freetv.fun/live/hu-nan-guo-ji-2.m3u8
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南国际.png" group-title="☘️湖南频道",湖南国际
 https://t.freetv.fun/live/hu-nan-guo-ji.m3u8
-#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南国际.png" group-title="☘️湖南频道",湖南国际
-https://t.freetv.fun/live/hu-nan-guo-ji-1.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
 https://t.freetv.fun/live/hu-nan-yu-le-1.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南娱乐.png" group-title="☘️湖南频道",湖南娱乐
@@ -3078,13 +3078,13 @@ https://t.freetv.fun/live/jing-men-xin-wen-zong-he-4.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7bf7cc6d2e41fb26e8b7032205b1f751&wsTime=1776003777
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=37b47fecc6dab312a42fff45af5bf05e&wsTime=1775764808&wsSession=9db3ca43c2746cf43f910d50-177575040919213&wsIPSercert=965199407363e75c3ccb566d6f002965&wsBindIP=2&wsserid=1168058346316481330
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="☘️河南频道",河南都市
 https://stream1.freetv.fun/he-nan-du-shi-11.m3u8
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="☘️河南频道",河南都市
