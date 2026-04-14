@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JE668/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="游戏风云" tvg-logo="https://www.xn--rgv465a.top/tvlogo/游戏风云.png" group-title="📺央视频道",游戏风云
+http://1.197.204.20:85/tsfile/live/1117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="茶" tvg-name="茶频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/茶频道.png" group-title="📺央视频道",茶频道
+http://1.197.204.20:85/tsfile/live/1116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国学.png" group-title="📺央视频道",国学
+http://1.197.204.20:85/tsfile/live/1118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视-4K" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -89,10 +95,18 @@ http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视-4K.png" group-title="📺4K/8K超高清频道",深圳卫视-4K
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+#EXTINF:-1 tvg-id="SiTV-游戏风云" tvg-name="SiTV-游戏风云" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SiTV-游戏风云.png" group-title="📺SiTV系列",SiTV-游戏风云
+http://1.197.204.20:85/tsfile/live/1117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="IPTV-经典电影" tvg-name="IPTV-经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV-经典电影.png" group-title="📺IPTV专区",IPTV-经典电影
+http://1.197.204.20:85/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="IPTV-热播剧场" tvg-name="IPTV-热播剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV-热播剧场.png" group-title="📺IPTV专区",IPTV-热播剧场
+http://1.197.204.20:85/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京卫视-4K" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="☘️北京频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视-4K" tvg-name="北京卫视-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视-4K.png" group-title="☘️北京频道",北京卫视-4K
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="☘️北京频道",北京卡酷少儿
+http://1.197.204.20:85/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京新闻.png" group-title="☘️北京频道",北京新闻
@@ -145,6 +159,10 @@ http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南都市.png" group-title="☘️河南频道",河南都市
+http://1.197.204.20:85/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南民生.png" group-title="☘️河南频道",河南民生
+http://1.197.204.20:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="☘️山西频道",山西卫视
@@ -197,9 +215,23 @@ http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南新闻.png" group-title="☘️海南频道",海南新闻
 https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/劲爆体育.png" group-title="🏀体育频道",劲爆体育
+http://1.197.204.20:85/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="🪁动画频道",北京卡酷少儿
+http://1.197.204.20:85/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="IPTV-经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典电影.png" group-title="🎥电影频道",经典电影
+http://1.197.204.20:85/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
+http://1.197.204.20:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="IPTV-热播剧场" tvg-name="IPTV-热播剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV-热播剧场.png" group-title="🎬剧场频道",IPTV-热播剧场
+http://1.197.204.20:85/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="📺专业频道",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="📺专业频道",都市剧场
+http://1.197.204.20:85/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://www.xn--rgv465a.top/tvlogo/茶.png" group-title="📺专业频道",茶
+http://1.197.204.20:85/tsfile/live/1116_1.m3u8?key=txiptv&playlive=1&authid=0
