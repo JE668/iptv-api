@@ -1,4 +1,7 @@
 📺央视频道,#genre#
+CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+CCTV-女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 
 📺中国教育电视台,#genre#
 
@@ -12,6 +15,7 @@
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
@@ -28,6 +32,7 @@
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
@@ -51,6 +56,7 @@
 山东卫视-4K,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 湖南卫视-4K,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 四川卫视-4K,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视-4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 广东卫视-4K,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视-4K,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
@@ -98,7 +104,9 @@
 
 ☘️四川频道,#genre#
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 四川卫视-4K,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视-4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
 
 ☘️安徽频道,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
@@ -175,10 +183,12 @@
 
 ☘️海南频道,#genre#
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 海南新闻,http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 🏀体育频道,#genre#
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
