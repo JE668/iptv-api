@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JE668/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="TVBS-亚洲" tvg-name="TVBS-亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS-亚洲.png" group-title="🌊港·澳·台",TVBS-亚洲
+http://8.218.84.3:8885/streams/0gxzjd41Exjr8MCdg0OCIlFsspUXT8B2mKKIDWliu370QTQxvBYAl4Hzi0O1pIa8ehImDLu2E6HEaMg_YYEh4EGVUlaZo2Ag48m2LELTYKvj3CpQh9VuhjtGucq3Npt23I2uSSplx0mruabXPPIfzCT9GIMm27_KwMq5NY1lpvRhaY9nrXtqpO-a1ZrjiIEibEwPVmmsgoB2b47C8xZmktyAWORcSPQOpNrFHszSrF5MfGo-tEQtlRtNmplukz3NcMmGyNdPYywQNc8XXIw-5g.m3u8?u
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京新闻.png" group-title="☘️北京频道",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海第一财经.png" group-title="☘️上海频道",上海第一财经
