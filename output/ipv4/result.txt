@@ -1,4 +1,5 @@
 📺央视频道,#genre#
+CCTV-5,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 📺中国教育电视台,#genre#
 
@@ -42,9 +43,6 @@
 广东卫视-4K,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视-4K,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=627498b93bc6f5d6e2460d0823bf81a3&txTime=18e6df74fc2
 
 📺4K/8K超高清频道,#genre#
 北京卫视-4K,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -56,12 +54,8 @@
 四川卫视-4K,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 广东卫视-4K,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 深圳卫视-4K,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=627498b93bc6f5d6e2460d0823bf81a3&txTime=18e6df74fc2
 
 📺CHC电影频道,#genre#
-CHC-动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 
 📺NewTV系列,#genre#
 
@@ -113,11 +107,7 @@ CHC-动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 ☘️福建频道,#genre#
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=1cf7fc3a8f6d160c33b43c2f9507a0cc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️重庆频道,#genre#
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
@@ -190,6 +180,7 @@ CHC-动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 🏀体育频道,#genre#
+CCTV-5,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
@@ -197,7 +188,6 @@ CHC-动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 🪁动画频道,#genre#
 
 🎥电影频道,#genre#
-CHC-动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8
 
 🎬剧场频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
