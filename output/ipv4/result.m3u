@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JE668/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视-4K" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -193,8 +191,6 @@ http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南新闻.png" group-title="☘️海南频道",海南新闻
 https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🏀体育频道",CCTV-5
-http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
