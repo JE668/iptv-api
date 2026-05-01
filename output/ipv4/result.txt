@@ -1,4 +1,9 @@
 📺央视频道,#genre#
+CCTV-2,http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
+CCTV-4,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
+CCTV-5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+CCTV-6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+CCTV-16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 
 📺中国教育电视台,#genre#
 
@@ -6,6 +11,7 @@
 
 📡卫视频道,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -15,6 +21,7 @@
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+黑龙江卫视,http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -24,6 +31,7 @@
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
@@ -34,6 +42,7 @@
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+重庆卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
 
 🌊港·澳·台,#genre#
 
@@ -49,6 +58,7 @@
 江苏卫视-4K,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 浙江卫视-4K,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 山东卫视-4K,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视-4K,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 湖南卫视-4K,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 四川卫视-4K,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 广东卫视-4K,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -94,7 +104,9 @@
 
 ☘️山东频道,#genre#
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 山东卫视-4K,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视-4K,http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
 
 ☘️四川频道,#genre#
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
@@ -102,6 +114,7 @@
 
 ☘️安徽频道,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 
 ☘️福建频道,#genre#
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
@@ -110,6 +123,7 @@
 
 ☘️重庆频道,#genre#
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+重庆卫视,http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
 
 ☘️天津频道,#genre#
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -131,6 +145,7 @@
 
 ☘️黑龙江频道,#genre#
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+黑龙江卫视,http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
 黑龙江新闻法治,http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 黑龙江新闻法治,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 
@@ -179,6 +194,8 @@
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 🏀体育频道,#genre#
+CCTV-5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+CCTV-16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
@@ -186,6 +203,7 @@
 🪁动画频道,#genre#
 
 🎥电影频道,#genre#
+CCTV-6,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 
 🎬剧场频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
