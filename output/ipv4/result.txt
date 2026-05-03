@@ -1,4 +1,5 @@
 📺央视频道,#genre#
+CCTV-12,http://120.211.62.180:8000/hls/12/index.m3u8
 
 📺中国教育电视台,#genre#
 
@@ -32,6 +33,7 @@
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 
@@ -91,10 +93,13 @@
 ☘️湖南频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视-4K,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南电视剧,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lMyZjaHM9JmRlZj0xJnM9MzZhOTkzOWY3Y2IwYzk4Y2U5YzQ4ZTk1YTZkNGY2N2QmdWlkPSZ1dWlkPWQ5M2U5ZDQ3Y2RmODA4N2IxODFlMmM5MjIwZDQ3NDA0LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3Nzc4NTYxNzA,/HNDSJMPP360.m3u8
+湖南爱晚,http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWFsX3Bob25lMyZjaHM9JmRlZj0xJnM9MzNmNjc3YjE2NTM4OWI4M2MyNTcxNjkwNjNiZTY2M2EmdWlkPSZ1dWlkPTVmYzIxNzgxYzZiYTVjMTdlNDRmYjJhZmViZGRjYzBlLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3Nzc4NTYxMDU,/HNGGMPP360.m3u8
 
 ☘️山东频道,#genre#
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视-4K,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 ☘️四川频道,#genre#
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
@@ -168,6 +173,7 @@
 
 ☘️云南频道,#genre#
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+云南卫视,http://120.211.62.180:8000/hls/39/index.m3u8
 
 ☘️贵州频道,#genre#
 
