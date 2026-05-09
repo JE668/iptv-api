@@ -1,4 +1,18 @@
 📺央视频道,#genre#
+CCTV-1,http://221.13.235.203:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://221.13.235.203:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://221.13.235.203:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://221.13.235.203:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://221.13.235.203:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://221.13.235.203:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://221.13.235.203:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://221.13.235.203:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://221.13.235.203:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://221.13.235.203:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://221.13.235.203:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://221.13.235.203:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://221.13.235.203:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://221.13.235.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺中国教育电视台,#genre#
 
@@ -69,6 +83,7 @@
 ☘️北京频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视-4K,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卡酷少儿,http://221.13.235.203:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 北京新闻,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
@@ -91,6 +106,7 @@
 ☘️湖南频道,#genre#
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视-4K,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+金鹰卡通,http://221.13.235.203:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️山东频道,#genre#
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -179,20 +195,27 @@
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 
 🏀体育频道,#genre#
+CCTV-5,http://221.13.235.203:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
+CCTV-15,http://221.13.235.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🪁动画频道,#genre#
+CCTV-14,http://221.13.235.203:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://221.13.235.203:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://221.13.235.203:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎥电影频道,#genre#
 
 🎬剧场频道,#genre#
+CCTV-8,http://221.13.235.203:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 🏛经典剧场,#genre#
 
 📚教育频道,#genre#
+CCTV-10,http://221.13.235.203:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺专业频道,#genre#
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
