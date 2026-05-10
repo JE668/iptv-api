@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JE668/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-第一剧场.png" group-title="📺央视频道",CCTV-第一剧场
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=中国电影频道
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-第一剧场.png" group-title="📺央视频道",CCTV-第一剧场
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 #EXTINF:-1 tvg-id="北京卫视-4K" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -11,6 +7,8 @@ http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 #EXTINF:-1 tvg-id="广东卫视-4K" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -24,13 +22,19 @@ http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 #EXTINF:-1 tvg-id="湖南卫视-4K" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://112.132.10.54:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 #EXTINF:-1 tvg-id="江苏卫视-4K" tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://112.132.10.54:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
@@ -50,6 +54,8 @@ http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 #EXTINF:-1 tvg-id="四川卫视-4K" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://112.132.10.54:9901/tsfile/live/1017_8.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
@@ -61,48 +67,6 @@ http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="🌊港·澳·台",ViuTV
-http://api.mytv666.top/api/hk.php?id=6661306430313736613735663661373663363331623230303263623561616361267469643d74762669643d3338
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="🌊港·澳·台",ViuTV
-http://api.mytv666.top/api/hk.php?id=6339393931646134323065303937343235303966313764373332346133353265267469643d77696e74763132332669643d3238
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ViuTV.png" group-title="🌊港·澳·台",ViuTV
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="🌊港·澳·台",东森洋片
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森洋片
-#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立台湾.png" group-title="🌊港·澳·台",三立台湾
-http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立国际台
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视31.png" group-title="🌊港·澳·台",港台电视31
-http://api.mytv666.top/api/hk.php?id=6334396336393462363037333730353331323135386365643063323965656438267469643d74762669643d3435
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视31.png" group-title="🌊港·澳·台",港台电视31
-http://api.mytv666.top/api/hk.php?id=6630336330336334333234646561366462633461663430653938303762613834267469643d77696e74763132332669643d3430
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视31.png" group-title="🌊港·澳·台",港台电视31
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视32.png" group-title="🌊港·澳·台",港台电视32
-http://api.mytv666.top/api/hk.php?id=3335636435633735323034636235316236373935323037366361653331656235267469643d74762669643d3436
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://www.xn--rgv465a.top/tvlogo/港台电视32.png" group-title="🌊港·澳·台",港台电视32
-http://api.mytv666.top/api/hk.php?id=3030323835633661623836393939353163626431613239353335373762336565267469643d77696e74763132332669643d3431
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="🌊港·澳·台",天映经典
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=天映经典
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="🌊港·澳·台",天映经典
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
-#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来电影.png" group-title="🌊港·澳·台",纬来电影
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=纬来电影
-#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
-http://api.mytv666.top/api/hk.php?id=3330336638356238356263323033303763623537646464323863373231323864267469643d74762669643d3739
-#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
-http://api.mytv666.top/api/hk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831
-#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
-http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来育乐
-#EXTINF:-1 tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧.png" group-title="🌊港·澳·台",靖天戏剧
-http://api.mytv666.top/api/hk.php?id=6439376364633336386561313339623337393864633730336461636261613535267469643d74762669643d313334
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="🌊港·澳·台",靖天映画
-http://api.mytv666.top/api/hk.php?id=3366353563616434393236663337313533636664313136376136663331626566267469643d74762669643d313636
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="🌊港·澳·台",靖天映画
-http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天映画台
-#EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
-http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631
-#EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="🌊港·澳·台",龙祥电影
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=龙祥电影
 #EXTINF:-1 tvg-id="广东卫视-4K" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 #EXTINF:-1 tvg-id="广东卫视-4K" tvg-name="广东卫视-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视-4K.png" group-title="☘️广东频道",广东卫视-4K
@@ -165,12 +129,16 @@ http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 #EXTINF:-1 tvg-id="山东卫视-4K" tvg-name="山东卫视-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视-4K.png" group-title="☘️山东频道",山东卫视-4K
 http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="☘️山东频道",山东教育
+http://112.132.10.54:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="四川卫视-4K" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="☘️四川频道",四川卫视
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 #EXTINF:-1 tvg-id="四川卫视-4K" tvg-name="四川卫视-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视-4K.png" group-title="☘️四川频道",四川卫视-4K
 http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="☘️安徽频道",安徽卫视
 http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+#EXTINF:-1 tvg-id="安徽影视" tvg-name="安徽影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽影视.png" group-title="☘️安徽频道",安徽影视
+http://112.132.10.54:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东南卫视.png" group-title="☘️福建频道",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 #EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建经济.png" group-title="☘️福建频道",福建经济
@@ -180,7 +148,11 @@ http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="☘️重庆频道",重庆卫视
 http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="☘️天津频道",天津卫视
+http://112.132.10.54:9901/tsfile/live/1017_8.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="☘️天津频道",天津卫视
 http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="☘️湖北频道",湖北卫视
+http://112.132.10.54:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="☘️湖北频道",湖北卫视
 http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
@@ -197,6 +169,8 @@ http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江新闻法治.png" group-title="☘️黑龙江频道",黑龙江新闻法治
 https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="☘️吉林频道",吉林卫视
+http://112.132.10.54:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="☘️吉林频道",吉林卫视
 http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 #EXTINF:-1 tvg-id="吉林乡村" tvg-name="吉林乡村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
@@ -215,6 +189,8 @@ http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="宁夏经济" tvg-name="宁夏经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏经济.png" group-title="☘️宁夏频道",宁夏经济
 https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="☘️甘肃频道",甘肃卫视
+http://112.132.10.54:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="☘️甘肃频道",甘肃卫视
 http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 #EXTINF:-1 tvg-id="甘肃都市" tvg-name="甘肃都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃都市.png" group-title="☘️甘肃频道",甘肃都市
@@ -239,18 +215,6 @@ http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="🎥电影频道",东森洋片
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森洋片
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="🎥电影频道",天映经典
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=天映经典
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="🎥电影频道",天映经典
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
-#EXTINF:-1 tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="🎥电影频道",龙祥电影
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=龙祥电影
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-第一剧场.png" group-title="🎬剧场频道",CCTV-第一剧场
-http://api.mytv666.top/api/qwt.php?t=影视频道&id=中国电影频道
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-第一剧场.png" group-title="🎬剧场频道",CCTV-第一剧场
-http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
 https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="📺专业频道",都市剧场
