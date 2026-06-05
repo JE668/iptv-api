@@ -39,7 +39,6 @@ https://raw.githubusercontent.com/JE668/iptv-sources/refs/heads/gh-pages/txt/mer
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
@@ -75,6 +74,8 @@ https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_pay.m3u8
 https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
+
+# https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
