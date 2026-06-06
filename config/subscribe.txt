@@ -30,6 +30,8 @@
 # https://live.hacks.tools/tv/iptv6.m3u
 # https://epg.pw/test_channels_macau.m3u
 # https://epg.pw/test_channels_hong_kong.m3u
+# https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
+# https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u
@@ -47,7 +49,6 @@ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
-https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
 https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CCTV.m3u
 https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CNTV.m3u
 https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/phoenix.m3u
@@ -67,8 +68,7 @@ https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8
 
-# https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
-# https://raw.githubusercontent.com/suxuang/myIPTV/main/refs/heads/main/广东电信.txt
+# https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
