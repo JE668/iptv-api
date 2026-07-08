@@ -37,39 +37,39 @@
 # https://live.zbds.org/tv/iptv4.m3u
 # https://raw.githubusercontent.com/JE668/m3u-checker-max/main/output/live.m3u
 # https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
+# https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u
+# https://raw.githubusercontent.com/cuikaipeng/IPTV/main/IPTV.m3u
+# https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u
-https://raw.githubusercontent.com/gnodgl/IPTV/master/IPTV.m3u
 https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u
 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.m3u
 https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CCTV.m3u
-https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CNTV.m3u
-https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/phoenix.m3u
-https://raw.githubusercontent.com/gnodgl/IPTV/master/CCTV.m3u
 https://raw.githubusercontent.com/gnodgl/IPTV/master/DTV.m3u
-https://raw.githubusercontent.com/gnodgl/IPTV/master/STV.m3u
-https://raw.githubusercontent.com/cuikaipeng/IPTV/main/CCTV.m3u
-https://raw.githubusercontent.com/cuikaipeng/IPTV/main/CNTV.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/JE668/iptv-sources/refs/heads/gh-pages/txt/merged.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_cctv.m3u8
-https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8
 
-# https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/IPTV.m3u
-# https://raw.githubusercontent.com/cuikaipeng/IPTV/main/IPTV.m3u
-# https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+# https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u
+# https://raw.githubusercontent.com/gnodgl/IPTV/master/IPTV.m3u
+# https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+# https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+# https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/CNTV.m3u
+# https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/phoenix.m3u
+# https://raw.githubusercontent.com/gnodgl/IPTV/master/CCTV.m3u
+# https://raw.githubusercontent.com/gnodgl/IPTV/master/STV.m3u
+# https://raw.githubusercontent.com/cuikaipeng/IPTV/main/CCTV.m3u
+# https://raw.githubusercontent.com/cuikaipeng/IPTV/main/CNTV.m3u
+# https://raw.githubusercontent.com/JE668/iptv-sources/refs/heads/gh-pages/txt/merged.txt
+# https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_province.m3u8
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
