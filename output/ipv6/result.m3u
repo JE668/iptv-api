@@ -506,9 +506,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784283312&k=9740237ad5542a40ff56157ccf9bc99d
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -1425,6 +1425,8 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 #EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="iHOT-爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱动漫.png" group-title="📺iHOT系列",iHOT-爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
+#EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="iHOT-爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱动漫.png" group-title="📺iHOT系列",iHOT-爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="iHOT-爱体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱体育.png" group-title="📺iHOT系列",iHOT-爱体育
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 #EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="iHOT-爱体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱体育.png" group-title="📺iHOT系列",iHOT-爱体育
@@ -1433,6 +1435,8 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8
 #EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="iHOT-爱体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱体育.png" group-title="📺iHOT系列",iHOT-爱体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8
+#EXTINF:-1 tvg-id="iHOT-爱体育" tvg-name="iHOT-爱体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱体育.png" group-title="📺iHOT系列",iHOT-爱体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
 #EXTINF:-1 tvg-id="iHOT-新动漫" tvg-name="iHOT-新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-新动漫.png" group-title="📺iHOT系列",iHOT-新动漫
 https://iptv.catvod.com/migu?id=961930269&token=ac3d766cc20b8ba0e73fed57a9064232
 #EXTINF:-1 tvg-id="BesTV-宝宝动画" tvg-name="BesTV-宝宝动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BesTV-宝宝动画.png" group-title="📺BesTV百视通",BesTV-宝宝动画
@@ -2388,6 +2392,10 @@ https://stream1.freetv.fun/wu-yi-jiao-yu-13.ctv
 #EXTINF:-1 tvg-id="武汉教育" tvg-name="武汉教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武汉教育.png" group-title="☘️湖北频道",武汉教育
 https://stream1.freetv.fun/wu-yi-jiao-yu-1.m3u8
 #EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
+https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
+#EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 https://stream1.freetv.fun/jing-men-xin-wen-zong-he-6.m3u8
 #EXTINF:-1 tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 https://stream1.freetv.fun/jing-men-xin-wen-zong-he-2.m3u8
@@ -2436,9 +2444,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1784283312&k=9740237ad5542a40ff56157ccf9bc99d
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北都市.png" group-title="☘️河北频道",河北都市
 https://stream1.freetv.fun/he-bei-du-shi-13.ctv
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北农民.png" group-title="☘️河北频道",河北农民
@@ -3099,6 +3107,8 @@ http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 #EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="iHOT-爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱动漫.png" group-title="🪁动画频道",iHOT-爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
+#EXTINF:-1 tvg-id="iHOT-爱动漫" tvg-name="iHOT-爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-爱动漫.png" group-title="🪁动画频道",iHOT-爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="iHOT-新动漫" tvg-name="iHOT-新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iHOT-新动漫.png" group-title="🪁动画频道",iHOT-新动漫
 https://iptv.catvod.com/migu?id=961930269&token=ac3d766cc20b8ba0e73fed57a9064232
 #EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州竞赛.png" group-title="🪁动画频道",广州竞赛
