@@ -330,8 +330,6 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺中国教育电视台",CETV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺中国教育电视台",CETV-3
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
-#EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📺中国教育电视台",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📺中国教育电视台",CETV-4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
@@ -500,9 +498,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1785081075&k=0ff9a48c7e8b80940a4d56cb1f964541
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -996,8 +994,6 @@ https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东民生.png" group-title="☘️广东频道",广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-16.ctv
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东影视.png" group-title="☘️广东频道",广东影视
-https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东影视.png" group-title="☘️广东频道",广东影视
 https://hls-gateway.vpstv.net/streams/661873.m3u8
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东影视.png" group-title="☘️广东频道",广东影视
 https://t.freetv.fun/live/yan-dong-ying-shi-2.m3u8
@@ -1005,6 +1001,8 @@ https://t.freetv.fun/live/yan-dong-ying-shi-2.m3u8
 https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-10.m3u8
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东影视.png" group-title="☘️广东频道",广东影视
 https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-13.m3u8
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东影视.png" group-title="☘️广东频道",广东影视
+https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-15.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东少儿.png" group-title="☘️广东频道",广东少儿
 https://t.freetv.fun/live/yan-dong-shao-er-1.m3u8
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东少儿.png" group-title="☘️广东频道",广东少儿
@@ -2425,32 +2423,18 @@ http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playl
 https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视.png" group-title="☘️河南频道",河南卫视
 https://iptv.catvod.com/migu?id=790187291&token=b122a0a7fc1a5ba288cf6b30c5b39273
-#EXTINF:-1 tvg-id="焦作综合" tvg-name="焦作综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/焦作综合.png" group-title="☘️河南频道",焦作综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226604/index.m3u8
-#EXTINF:-1 tvg-id="焦作公共" tvg-name="焦作公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/焦作公共.png" group-title="☘️河南频道",焦作公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
-#EXTINF:-1 tvg-id="焦作教育" tvg-name="焦作教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/焦作教育.png" group-title="☘️河南频道",焦作教育
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
 #EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
 https://stream1.freetv.fun/kai-feng-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-id="洛阳综合" tvg-name="洛阳综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳综合.png" group-title="☘️河南频道",洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
-#EXTINF:-1 tvg-id="洛阳综合" tvg-name="洛阳综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳综合.png" group-title="☘️河南频道",洛阳综合
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226542/index.m3u8
 #EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳科教.png" group-title="☘️河南频道",洛阳科教
 https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
-#EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳科教.png" group-title="☘️河南频道",洛阳科教
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8
 #EXTINF:-1 tvg-id="洛阳科教" tvg-name="洛阳科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳科教.png" group-title="☘️河南频道",洛阳科教
 http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 #EXTINF:-1 tvg-id="洛阳文旅" tvg-name="洛阳文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳文旅.png" group-title="☘️河南频道",洛阳文旅
 https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 #EXTINF:-1 tvg-id="洛阳文旅" tvg-name="洛阳文旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/洛阳文旅.png" group-title="☘️河南频道",洛阳文旅
 http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
-#EXTINF:-1 tvg-id="许昌公共" tvg-name="许昌公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/许昌公共.png" group-title="☘️河南频道",许昌公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1 tvg-id="濮阳公共" tvg-name="濮阳公共" tvg-logo="https://www.xn--rgv465a.top/tvlogo/濮阳公共.png" group-title="☘️河南频道",濮阳公共
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
@@ -2458,9 +2442,9 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
-https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1785081075&k=0ff9a48c7e8b80940a4d56cb1f964541
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="☘️河北频道",河北卫视
+http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北都市.png" group-title="☘️河北频道",河北都市
 https://stream1.freetv.fun/he-bei-du-shi-13.ctv
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北农民.png" group-title="☘️河北频道",河北农民
@@ -3340,7 +3324,7 @@ https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
 https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="🎬剧场频道",都市剧场
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+https://hls-gateway.vpstv.net/streams/708845.m3u8
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘剧场.png" group-title="🎬剧场频道",淘剧场
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 #EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘剧场.png" group-title="🎬剧场频道",淘剧场
@@ -3407,8 +3391,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📚教育频道",CETV-3
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-#EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📚教育频道",CETV-3
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 #EXTINF:-1 tvg-id="CETV-3" tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="📚教育频道",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-4.png" group-title="📚教育频道",CETV-4
@@ -3480,7 +3462,7 @@ https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="📺专业频道",都市剧场
 https://zby.130519.xyz/PLTV/11/224/3221226155/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="📺专业频道",都市剧场
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+https://hls-gateway.vpstv.net/streams/708845.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/全纪实.png" group-title="📺专业频道",全纪实
 https://live.metshop.top/bestv.php?id=qjshd8m/8000000
 #EXTINF:-1 tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="📺专业频道",CN卡通
