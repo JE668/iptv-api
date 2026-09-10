@@ -1,13 +1,13 @@
 📺央视频道,#genre#
 CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV-4,http://t.061899.xyz/tl/tl.php?id=cctv4
 CCTV4欧洲,http://t.061899.xyz/tl/tl.php?id=cctv4o
 CCTV4美洲,http://t.061899.xyz/tl/tl.php?id=cctv4m
-CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV-5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
 CCTV-6,http://t.061899.xyz/tl/tl.php?id=cctv6
 CCTV-7,http://t.061899.xyz/tl/tl.php?id=cctv7
@@ -35,6 +35,9 @@ CCTV-风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5
 CCTV-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
+环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
+生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
+优优宝贝,http://120.76.248.139/live/bfgd/4200000153.m3u8
 乐游,http://t.061899.xyz/tl/tl.php?id=ly
 
 📺中国教育电视台,#genre#
@@ -56,22 +59,24 @@ CGTN-纪录,http://t.061899.xyz/tl/tl.php?id=cgtnjl
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
+海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
 湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -82,15 +87,16 @@ CGTN-纪录,http://t.061899.xyz/tl/tl.php?id=cgtnjl
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
 
 🌊港·澳·台,#genre#
@@ -107,10 +113,7 @@ CGTN-纪录,http://t.061899.xyz/tl/tl.php?id=cgtnjl
 📺4K/8K超高清频道,#genre#
 东方卫视-4K,http://t.061899.xyz/tl/tl.php?id=dfws
 江苏卫视-4K,http://t.061899.xyz/tl/tl.php?id=jsws
-浙江卫视-4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 山东卫视-4K,http://t.061899.xyz/tl/tl.php?id=sdws
-湖南卫视-4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视-4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视-4K,http://t.061899.xyz/tl/tl.php?id=hunws
 四川卫视-4K,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视-4K,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -139,43 +142,18 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 ☘️上海频道,#genre#
 东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
 东方卫视-4K,http://t.061899.xyz/tl/tl.php?id=dfws
-上海第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 上海第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 上海外语,http://t.061899.xyz/tl/tl.php?id=shics
 上海新闻综合,http://t.061899.xyz/tl/tl.php?id=shxwzh
 欢笑剧场,http://t.061899.xyz/tl/tl.php?id=hxjc
 法治天地,http://t.061899.xyz/tl/tl.php?id=fztd
-第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 
 ☘️浙江频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视-4K,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-嘉兴新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 
 ☘️江苏频道,#genre#
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
@@ -184,11 +162,7 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 ☘️湖南频道,#genre#
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-湖南卫视-4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视-4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视-4K,http://t.061899.xyz/tl/tl.php?id=hunws
 
 ☘️山东频道,#genre#
@@ -229,6 +203,7 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
 
 ☘️河北频道,#genre#
+石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
 
 ☘️山西频道,#genre#
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -246,15 +221,21 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
+延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
 
 ☘️辽宁频道,#genre#
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
+辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
 
 ☘️内蒙古频道,#genre#
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 
 ☘️宁夏频道,#genre#
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -269,6 +250,7 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 
 ☘️青海频道,#genre#
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 
 ☘️新疆频道,#genre#
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -278,6 +260,7 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 
 ☘️西藏频道,#genre#
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
 
 ☘️云南频道,#genre#
@@ -291,11 +274,19 @@ SiTV-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
 
 ☘️海南频道,#genre#
+海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 
 🏀体育频道,#genre#
-CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV-5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV-5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
